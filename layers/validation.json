@@ -1,0 +1,47 @@
+{
+  "canvas": [
+    768,
+    768
+  ],
+  "color_mode": "RGBA",
+  "layers": 7,
+  "corner_alpha": 0,
+  "variants": [
+    {
+      "file": "composition-1.png",
+      "traits": [
+        "hoodie-coral",
+        "eyes-open",
+        null,
+        null
+      ]
+    },
+    {
+      "file": "composition-2.png",
+      "traits": [
+        "hoodie-mint",
+        "eyes-happy",
+        "hat-blue",
+        null
+      ]
+    },
+    {
+      "file": "composition-3.png",
+      "traits": [
+        "hoodie-coral",
+        "eyes-happy",
+        null,
+        "glasses-gold"
+      ]
+    },
+    {
+      "file": "composition-4.png",
+      "traits": [
+        "hoodie-mint",
+        "eyes-open",
+        "hat-blue",
+        "glasses-gold"
+      ]
+    }
+  ]
+}
